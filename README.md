@@ -14,6 +14,6 @@
 
   <h3>🛠 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,vue,jenkins,markdown,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,js,html,css,java,markdown,react,git,github,docker,figma,discord,gmail,postgre,mysql&perline=7)](https://skillicons.dev)
 
 
