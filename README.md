@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <h3>🛠 Tech Stack</h3>
+  <h3>🛠 My Tech Stack</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,js,html,css,java,markdown,react,git,github,docker,figma,discord,notion,gmail,stackoverflow,wordpress,postgres,mysql,sublime,visualstudio,vscode&perline=7)](https://skillicons.dev)
 
