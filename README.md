@@ -16,5 +16,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,js,html,css,java,markdown,react,git,github,docker,figma,discord,notion,gmail,stackoverflow,wordpress,postgres,mysql,sublime,visualstudio,vscode&perline=7)](https://skillicons.dev)
 
-![Estadísticas de GitHub de Jose David](https://github-readme-stats.vercel.app/api?username=DevByJose&show_icons=true&theme=radial)
 
