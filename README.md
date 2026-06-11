@@ -16,4 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,js,html,css,java,markdown,react,git,github,docker,figma,discord,notion,gmail,stackoverflow,wordpress,postgres,mysql,sublime,visualstudio,vscode&perline=7)](https://skillicons.dev)
 
+  <h3>🏆 Certifications & Badges</h3>
+
+  <img src="assets/mongodb-overview-core-concepts-and-architecture(1).png" width="120" alt="MongoDB Skill - Overview"/>
 
