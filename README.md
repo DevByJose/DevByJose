@@ -20,3 +20,9 @@
 
   <img src="assets/mongodb-overview-core-concepts-and-architecture(1).png" width="120" alt="MongoDB Skill - Overview"/>
 
+  <h3>⏱ This Week I Coded</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
